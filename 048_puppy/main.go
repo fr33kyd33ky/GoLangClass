@@ -12,4 +12,12 @@ func main() {
 
 	fmt.Println(s1)
 	fmt.Println(s2)
+
+	s3 := golangpuppy.BigBark()
+
+	s4 := golangpuppy.BigBarks()
+
+	fmt.Println(s3)
+	fmt.Println(s4)
+
 }

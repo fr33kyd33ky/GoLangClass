@@ -1,2 +1,6 @@
-github.com/fr33kyd33ky/GoLangPuppy v0.0.0-20240523194925-ef5625b89ca7 h1:AFVgw2rzFufCiaRFoDEbGVVwgyVEUZnA5EBws1mdcuc=
-github.com/fr33kyd33ky/GoLangPuppy v0.0.0-20240523194925-ef5625b89ca7/go.mod h1:wevPIU2k19osGsJF45oSvxZ9jaQ4xmibwYH5+OuGgl0=
+github.com/fr33kyd33ky/GoLangDog v0.0.0-20240524150905-e6a7d77ae317 h1:6OHjddCJZZlnMO0cVHks+JWx9ewpwIvN/P48oFBfq80=
+github.com/fr33kyd33ky/GoLangDog v0.0.0-20240524150905-e6a7d77ae317/go.mod h1:j+hwvLab6xWApkzj1arqabkwx0vk8Gr33zTST2PGY7M=
+github.com/fr33kyd33ky/GoLangPuppy v0.0.0-20240524151547-1fabb9ee37d6 h1:TOeHJ8VVe9w5hf3qF8e1SZPjrQDiokF1wBUquYsICxA=
+github.com/fr33kyd33ky/GoLangPuppy v0.0.0-20240524151547-1fabb9ee37d6/go.mod h1:4lINcvDVUrW3ojhm3pEsxE8QR9UxaXF3FSuZWmavooY=
+github.com/fr33kyd33ky/GoLangPuppy v0.0.0-20240524154822-1b9074613312 h1:h0jrWs46/9seHCCZLzZUCZoNNNwcVdom7y+Q5w1oKz0=
+github.com/fr33kyd33ky/GoLangPuppy v0.0.0-20240524154822-1b9074613312/go.mod h1:4lINcvDVUrW3ojhm3pEsxE8QR9UxaXF3FSuZWmavooY=
